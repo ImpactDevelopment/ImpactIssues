@@ -2,6 +2,7 @@
 
 Impact is an advanced Minecraft Hacked Client aimed towards user friendliness.
 Here, you will be able to submit issues that prevent the client from performing as expected.
+In the future, there may be a chance of the Client being Open-Source'd as well as it being based off of the [ClientAPI](https://github.com/ZeroMemes/ClientAPI)
 
 ## Impact 3.0 Update
 With the Minecraft 1.11 update, there were multiple changes to game mechanics, making Impact 3.0 experience some bugs.
