@@ -1,15 +1,15 @@
 <!-- Please describe your issue / suggestion in as much detail as possible. -->
 
-<!-- Anything within these "<!--" tags won't be shown in your issue. -->
+<!-- Anything within these "<!--" comments won't be shown in your issue. -->
 <!-- You can use markdown and some limited HTML to format your issue -->
 
 <!-- The following sections can be deleted if this is not a bug -->
 
 ### What happens?
-<!-- Example: My client crashes -->
+<!-- e.g. "My client crashes" -->
 
 ### When does this happen?
-<!-- Example: When I join a server -->
+<!-- e.g. "When I join a server" -->
 
 ### Exact steps to reproduce?
 
@@ -20,7 +20,7 @@
 - etc
 
 ### Game output?
-<!-- Paste your game output between the two ``` marks -->
+<!-- Paste your game output between the ``` marks -->
 ```
 
 ```
