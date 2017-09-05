@@ -14,5 +14,6 @@
 
 ### Crash log?
 <!-- Attach / paste your crash log here -->
-Impact Version:
+
+Impact Version: <!-- Please ignore this: --> <br>
 Operating System:
