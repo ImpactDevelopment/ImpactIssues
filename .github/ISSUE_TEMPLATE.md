@@ -1,7 +1,9 @@
-<!-- Please describe your issue / suggestion as good as possible. 
-     These comments won't be shown in your issue. -->
+<!-- Please describe your issue / suggestion in as much detail as possible. -->
 
-<!-- The following is not needed if this is an suggestion -->
+<!-- Anything within these "<!--" tags won't be shown in your issue. -->
+<!-- You can use markdown and some limited HTML to format your issue -->
+
+<!-- The following sections can be deleted if this is not a bug -->
 
 ### What happens?
 <!-- Example: My client crashes -->
@@ -9,11 +11,27 @@
 ### When does this happen?
 <!-- Example: When I join a server -->
 
-### Extra mods?
-<!-- Example: OptiFine -->
+### Exact steps to reproduce?
 
-### Crash log?
-<!-- Attach / paste your crash log here -->
+- Step one
+- Another step
+  - Note about "Another step"
+- A third step
+- etc
 
-Impact Version: <!-- Please ignore this: --> <br>
-Operating System:
+### Game output?
+<!-- Paste your game output between the two ``` marks -->
+```
+
+```
+
+### Crash report?
+<!-- If a crash report file was generated, you can paste its contents between the ``` marks -->
+```
+
+```
+
+- Impact Version: <!-- e.g. "4.1 for 1.12.1" -->
+- Using Optifine? <!-- Yes or No -->
+- Enabled mods: <!-- e.g. "Killaura, Elytra+, Ridable with speed set to 3, etc" -->
+- Operating System: <!-- e.g. "Windows 10 64bit" or "Fedora 24" -->
