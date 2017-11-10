@@ -1,6 +1,6 @@
 # Impact Client
 
-Impact is an advanced Minecraft Hacked Client aimed towards user friendliness.
+Impact is an advanced Minecraft Utility Mod aimed towards user friendliness.
 Here, you will be able to submit issues that prevent the client from performing as expected.
 
 ## Download
@@ -26,4 +26,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 <!-- GitHub links -->
 [issues]: /ImpactDevelopment/ImpactClient/issues
-[ClientAPI]: /ZeroMemes/ClientAPI
+[ClientAPI]: /ImpactDevelopment/ClientAPI
