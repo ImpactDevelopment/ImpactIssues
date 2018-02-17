@@ -22,7 +22,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
 [download]: https://impactdevelopment.github.io/#download
-[discord]: discord.gg/YFhR2Ab
+[discord]: https://discord.gg/YFhR2Ab
 
 <!-- GitHub links -->
 [issues]: /ImpactDevelopment/ImpactClient/issues
