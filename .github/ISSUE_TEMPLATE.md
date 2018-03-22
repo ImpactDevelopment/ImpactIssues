@@ -31,6 +31,7 @@
 
 ```
 
+### Additional Client Info
 - Impact Version: <!-- e.g. "4.1 for 1.12.1" -->
 - Using Optifine? <!-- Yes or No -->
 - Enabled mods: <!-- e.g. "Killaura, Elytra+, Ridable with speed set to 3, etc" -->
