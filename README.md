@@ -13,7 +13,7 @@ If you need help using Impact, you should instead ask for it on the [discord] se
 
 ## Bugs
 
-Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate issues.
+Please report any bugs you find [issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate issues.
 
 ## Feature Requests
 
@@ -25,5 +25,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 [discord]: https://discord.gg/YFhR2Ab
 
 <!-- GitHub links -->
-[issues]: /ImpactDevelopment/ImpactClient/issues
-[ClientAPI]: /ImpactDevelopment/ClientAPI
+[issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
