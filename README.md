@@ -29,7 +29,7 @@ Impact is developed by [ZeroMemes] with occasional help from [LeafHacker]. It is
 [discord]: https://discord.gg/YFhR2Ab
 
 <!-- GitHub links -->
-[issues]: /ImpactDevelopment/ImpactClient/issues
-[ClientAPI]: /ImpactDevelopment/ClientAPI
-[ZeroMemes]: /ZeroMemes
-[LeafHacker]: /LeafHacker
+[issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
+[ClientAPI]: https://github.com/ImpactDevelopment/ClientAPI
+[ZeroMemes]: https://github.com/ZeroMemes
+[LeafHacker]: https://github.com/LeafHacker
