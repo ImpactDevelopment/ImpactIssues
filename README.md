@@ -19,6 +19,10 @@ Please report any bugs you find [here][issues]. Try to be as descriptive as poss
 
 New features should also be reported as [issues]. Please try to describe the feature you are suggesting in as much detail as possible and explain _why_ it would be useful. As explained above, please first check the feature hasn't already been requested and make sure your issue only covers one feature. If you have multiple ideas, open seperate issues.
 
+## Credit
+
+Impact is developed by [ZeroMemes] with occasional help from [LeafHacker]. It is built on top of [ClientAPI]
+
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
 [download]: https://impactdevelopment.github.io/#download
@@ -27,3 +31,5 @@ New features should also be reported as [issues]. Please try to describe the fea
 <!-- GitHub links -->
 [issues]: /ImpactDevelopment/ImpactClient/issues
 [ClientAPI]: /ImpactDevelopment/ClientAPI
+[ZeroMemes]: /ZeroMemes
+[LeafHacker]: /LeafHacker
