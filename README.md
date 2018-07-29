@@ -5,7 +5,7 @@ Here, you will be able to submit issues that prevent the client from performing 
 
 ## Download
 
-You can [download Impact][download] by visiting the Impact Website
+You can [download Impact][download] by visiting the Impact Website.
 
 ## Help and Support
 
@@ -21,7 +21,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ## Credit
 
-Impact is developed by [ZeroMemes] with occasional help from [LeafHacker]. It is built on top of [ClientAPI]
+Impact is developed by [ZeroMemes] with occasional help from [LeafHacker]. It is built on top of [ClientAPI].
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
