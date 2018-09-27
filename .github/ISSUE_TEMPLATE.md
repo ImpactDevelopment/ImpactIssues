@@ -46,6 +46,7 @@
 <!-- Please fill out this section as best you can -->
 - Impact Version: <!-- e.g. "4.1 for 1.12.1" -->
 - Using Optifine? <!-- Yes or No -->
+- Using LiteLoader? <!-- Yes or No -->
 - Enabled mods: <!-- e.g. "Killaura, Elytra+, Ridable with speed set to 3, etc" -->
 - Operating System: <!-- e.g. "Windows 10 64bit" or "Fedora 24" -->
 
