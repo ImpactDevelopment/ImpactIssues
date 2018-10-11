@@ -1,5 +1,5 @@
 # Instruction for adding optifine into impact
-If you prefer watching a vidoe please watch [this](https://www.youtube.com/watch?v=o1LHq6L0ibk)
+If you prefer watching a video please watch [this](https://www.youtube.com/watch?v=o1LHq6L0ibk)
 ## Download optifine here
 You can find it [here](optifine.net)
 
@@ -7,7 +7,7 @@ You can find it [here](optifine.net)
 you will need java on your system to do so
 
 ## Navigate to your .minecraft folder
-if you dont know where it probably is in `%appdata%/.minecraft` (for windows)
+if you don't know where it probably is in `%appdata%/.minecraft` (for windows)
 press win+r and paste that or paste it in window explore and hit enter
 
 ## Copying the optifine file
