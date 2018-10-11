@@ -39,12 +39,12 @@ now go to
 ```
 "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass clientapi.load.ClientTweaker",
 ```
-and add in `--tweakClass optifine.OptiFineForgeTweaker`
+and add in `--tweakClass optifine.OptiFineForgeTweaker` to the end of the argument/line
 like this
 ```
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass clientapi.load.ClientTweaker --tweakClass optifine.OptiFineForgeTweaker",
 ```
-when it's completed it should be done
+when it's completed just restart your launcher and you should have optifine
 
 ## [Advanced] have multiple profiles consist of one having optifine and the other dont
 Before the editing impact.json step, you should make a copy of impact's folder
