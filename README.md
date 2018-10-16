@@ -22,12 +22,34 @@ New features should also be reported as [issues]. Please try to describe the fea
 ## Credit
 
 ### Main Information 
-      Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
+   Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
+   It supports Baritone which is developed by [leijurv]
 
 ### Past Developers
+   Whispers,
+   Kato,
+   Nick
 
 
+### Impact Discord Staff and Members
 
+  - Moderator -
+      [0x22]               - Big Contributor to Impact, Developer of Future
+      [Astro]              - Helper and Contributor to Impact
+      [MightyKnight]       - Very active helper and supporter on the discord
+      [positive]           - Helper and Supporter on Discord and Github
+
+  - Support -
+      [MagicStar] (Finlay) - Early contributor, active member
+      [Peanut]             - Early contributor, active member
+      pepsi boy            - The pepsi god
+      sudofox              - One of the oldest Contributors, not active anymore
+      [vitor is]             - Active contributor on github
+      xpielordx            - Semi-Active Helper on Discord
+      [SuperOP535]         - Very active Helper on Discord and Github
+
+      
+     
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
@@ -37,5 +59,17 @@ New features should also be reported as [issues]. Please try to describe the fea
 <!-- GitHub links -->
 [issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
 [ClientAPI]: https://github.com/ImpactDevelopment/ClientAPI
+
+<!-- Users -->
 [ZeroMemes]: https://github.com/ZeroMemes
 [LeafHacker]: https://github.com/LeafHacker
+[leijurv]: https://github.com/leijurv
+
+[Peanut]: https://github.com/zPeanut
+[MagicStar]: https://github.com/MagicStarIsntGay
+[vitor is]: https://github.com/VitorISs
+[MightyKnight]: https://github.com/MightyKnight
+[positive]: https://github.com/hugohindi
+[0x22]: https://github.com/0-x-2-2
+[SuperOP535]: https://github.com/SuperOP535
+[Trol1337]
