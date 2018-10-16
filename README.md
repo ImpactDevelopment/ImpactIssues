@@ -33,20 +33,19 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ### Impact Discord Staff and Members
 
-  - Moderator -
-      [0x22]               - Big Contributor to Impact, Developer of Future
-      [Astro]              - Helper and Contributor to Impact
-      [MightyKnight]       - Very active helper and supporter on the discord
-      [positive]           - Helper and Supporter on Discord and Github
-
-  - Support -
-      [MagicStar] (Finlay) - Early contributor, active member
-      [Peanut]             - Early contributor, active member
-      pepsi boy            - The pepsi god
-      sudofox              - One of the oldest Contributors, not active anymore
-      [vitor is]             - Active contributor on github
-      xpielordx            - Semi-Active Helper on Discord
-      [SuperOP535]         - Very active Helper on Discord and Github
+Staff         | Second Header
+------------- | -------------
+[0x22] - Moderator| Big Contributor to Impact, Developer of Future
+Astro - Moderator         | Helper and Contributor to Impact
+[MightyKnight] - Moderator|  Very active helper and supporter on the discord
+[positive] - Moderator    | Helper and Supporter on Discord and Github
+[MagicStar] (Finlay) |Really early contributor, Emotional Support 
+[Peanut] |Long term member on discord, active member and contributor
+pepsi boy | The pepsi god
+sudofox | One of the oldest Contributors, not active anymore
+[vitor is] | Active contributor on github
+xpielordx | Semi-Active Helper on Discord
+[SuperOP535] | Very active Helper on Discord and Github
 
       
      
@@ -72,4 +71,3 @@ New features should also be reported as [issues]. Please try to describe the fea
 [positive]: https://github.com/hugohindi
 [0x22]: https://github.com/0-x-2-2
 [SuperOP535]: https://github.com/SuperOP535
-[Trol1337]
