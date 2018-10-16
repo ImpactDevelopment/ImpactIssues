@@ -21,9 +21,13 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ## Credit
 
-Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
+### Main Information 
+      Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
 
-### test
+### Past Developers
+
+
+
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
