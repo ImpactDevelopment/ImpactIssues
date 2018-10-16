@@ -16,6 +16,8 @@ Find the new Impact+LiteLoader combo JSON that the installer created, and modify
 
 ![Modify](https://i.imgur.com/6AFFegt.png)
 
+As of 4.4, you can keep this part the same!
+
 ## Run the new Profile
 
 Now you can open the Minecraft launcher and run the combo profile as normal.
