@@ -25,15 +25,13 @@ New features should also be reported as [issues]. Please try to describe the fea
    Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
    It supports Baritone which is developed by [leijurv]
 
+### Impact Discord Staff and Members
 
-### Past Developers
+#### Past Developers
+
 * Whispers 
 * Kato
 * Nick
-   
-   
-### Impact Discord Staff and Members
-
 
 #### Moderators
 
