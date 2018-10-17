@@ -32,6 +32,7 @@ New features should also be reported as [issues]. Please try to describe the fea
    
 ### Impact Discord Staff and Members
 
+
 #### Moderators
 
 * [0x22]         | Big Contributor to Impact, Developer of Future
