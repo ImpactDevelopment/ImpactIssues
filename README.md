@@ -32,14 +32,14 @@ New features should also be reported as [issues]. Please try to describe the fea
    
 ### Impact Discord Staff and Members
 
-\- Moderators -
+**- Moderators -
 
 * [0x22]         | Big Contributor to Impact, Developer of Future
 * Astro          | Helper and Contributor to Impact
 * [MightyKnight] |  Very active helper and supporter on the discord
 * [positive]     | Helper and Supporter on Discord and Github
 
-\- Supporters -
+**- Supporters -
 
 * [Peanut]         | Long term member on discord, active member and contributor
 * [MagicStar]      | Really early contributor, Emotional Support 
