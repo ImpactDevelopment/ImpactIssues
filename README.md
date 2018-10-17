@@ -25,21 +25,20 @@ New features should also be reported as [issues]. Please try to describe the fea
    Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
    It supports Baritone which is developed by [leijurv]
 
+
 ### Past Developers
-   Whispers,
-   Kato,
-   Nick
-
-
+   Whispers, Kato, Nick
+   
+   
 ### Impact Discord Staff and Members
 
 Staff         | Second Header
 ------------- | -------------
-[0x22] - Moderator| Big Contributor to Impact, Developer of Future
-Astro - Moderator         | Helper and Contributor to Impact
-[MightyKnight] - Moderator|  Very active helper and supporter on the discord
-[positive] - Moderator    | Helper and Supporter on Discord and Github
-[MagicStar] (Finlay) |Really early contributor, Emotional Support 
+[#f03c15][0x22]`#f03c15`| Big Contributor to Impact, Developer of Future
+Astro| Helper and Contributor to Impact
+[MightyKnight]|  Very active helper and supporter on the discord
+[positive]| Helper and Supporter on Discord and Github
+[MagicStar]|Really early contributor, Emotional Support 
 [Peanut] |Long term member on discord, active member and contributor
 pepsi boy | The pepsi god
 sudofox | One of the oldest Contributors, not active anymore
