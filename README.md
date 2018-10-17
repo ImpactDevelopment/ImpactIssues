@@ -47,7 +47,7 @@ Staff         | Second Header
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [SuperOP535] | Very active Helper on Discord and Github
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Moderator
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Supporter
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Supporter
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
