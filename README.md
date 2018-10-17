@@ -32,12 +32,13 @@ New features should also be reported as [issues]. Please try to describe the fea
    
 ### Impact Discord Staff and Members
 
-Staff         |
-------------- | -------------
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [0x22] | Big Contributor to Impact, Developer of Future
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Astro | Helper and Contributor to Impact
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [MightyKnight]|  Very active helper and supporter on the discord
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [positive]| Helper and Supporter on Discord and Github
+   Moderators
+
+* [0x22] | Big Contributor to Impact, Developer of Future
+* Astro | Helper and Contributor to Impact
+* [MightyKnight]|  Very active helper and supporter on the discord
+* [positive]| Helper and Supporter on Discord and Github
+
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [MagicStar]|Really early contributor, Emotional Support 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Peanut] |Long term member on discord, active member and contributor
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) pepsi boy | The pepsi god
