@@ -27,7 +27,9 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 
 ### Past Developers
-   Whispers, Kato, Nick
+* Whispers 
+* Kato
+* Nick
    
    
 ### Impact Discord Staff and Members
