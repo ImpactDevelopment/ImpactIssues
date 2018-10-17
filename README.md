@@ -13,7 +13,7 @@ If you need help using Impact, you should instead ask for it on the [discord] se
 
 ## Bugs
 
-Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate issues.
+Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate    issues.
 
 ## Feature Requests
 
@@ -35,21 +35,33 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Moderators
 
-* [0x22]         | Big Contributor to Impact, Developer of Future
-* Astro          | Helper and Contributor to Impact
-* [MightyKnight] |  Very active helper and supporter on the discord
-* [positive]     | Helper and Supporter on Discord and Github
+* [0x22]          
+* Astro           
+* [MightyKnight]  
+* [positive]      
 
 #### Supporters
 
-* [Peanut]         | Long term member on discord, active member and contributor
-* [MagicStar]      | Really early contributor, Emotional Support 
-* pepsi boy        | The pepsi god
-* sudofox          | One of the oldest Contributors, not active anymore
-* [vitor is]       | Active contributor on github
-* xpielordx        | Semi-Active Helper on Discord
-* [SuperOP535]     | Very active Helper on Discord and Github
+* [Peanut]
+* [MagicStar]      
+* pepsi boy        
+* sudofox
+* [vitor is]       
+* xpielordx        
+* [SuperOP535]     
 
+
+<!--info not bothered to add (for peanut only)
+Big Contributor to Impact, Developer of Future
+Helper and Contributor to Impact
+Very active helper and supporter on the discord
+Helper and Supporter on Discord and Github
+Long term member on discord, active member and contributor
+| Really early contributor, Emotional Support 
+| The pepsi god
+ One of the oldest Contributors, not active anymore
+ | Very active Helper on Discord and Github
+  -->
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
