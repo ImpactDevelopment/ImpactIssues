@@ -34,20 +34,19 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 Staff         | Second Header
 ------------- | -------------
-[#f03c15][0x22]`#f03c15`| Big Contributor to Impact, Developer of Future
-Astro| Helper and Contributor to Impact
-[MightyKnight]|  Very active helper and supporter on the discord
-[positive]| Helper and Supporter on Discord and Github
-[MagicStar]|Really early contributor, Emotional Support 
-[Peanut] |Long term member on discord, active member and contributor
-pepsi boy | The pepsi god
-sudofox | One of the oldest Contributors, not active anymore
-[vitor is] | Active contributor on github
-xpielordx | Semi-Active Helper on Discord
-[SuperOP535] | Very active Helper on Discord and Github
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [0x22] | Big Contributor to Impact, Developer of Future
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Astro | Helper and Contributor to Impact
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [MightyKnight]|  Very active helper and supporter on the discord
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [positive]| Helper and Supporter on Discord and Github
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [MagicStar]|Really early contributor, Emotional Support 
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Peanut] |Long term member on discord, active member and contributor
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) pepsi boy | The pepsi god
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) sudofox | One of the oldest Contributors, not active anymore
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [vitor is] | Active contributor on github
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) xpielordx | Semi-Active Helper on Discord
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [SuperOP535] | Very active Helper on Discord and Github
 
-      
-     
+
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
