@@ -21,7 +21,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ## Credit
 
-### Main Information 
    Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI].
    It supports Baritone which is developed by [leijurv]
 
