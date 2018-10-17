@@ -32,7 +32,7 @@ New features should also be reported as [issues]. Please try to describe the fea
    
 ### Impact Discord Staff and Members
 
-Staff         | Second Header
+Staff         |
 ------------- | -------------
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [0x22] | Big Contributor to Impact, Developer of Future
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Astro | Helper and Contributor to Impact
