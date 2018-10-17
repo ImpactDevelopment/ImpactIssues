@@ -21,7 +21,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ## Credit
 
-   Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI] and supports Baritone which is developed by [leijurv]
+   Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone] which is developed by [leijurv]
 
 ### Impact Discord Staff and Members
 
@@ -70,6 +70,7 @@ Long term member on discord, active member and contributor
 <!-- GitHub links -->
 [issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
 [ClientAPI]: https://github.com/ImpactDevelopment/ClientAPI
+[Baritone]: https://github.com/cabaletta/baritone
 
 <!-- Users -->
 [ZeroMemes]: https://github.com/ZeroMemes
