@@ -10,13 +10,17 @@ Run the LiteLoader installer and create a new profile, extending Impact's
 
 ![Installer](https://i.imgur.com/8NnyH1a.png)
 
-## Modify the extended JSON
+## Modify the JSON (for Impact versions before 4.4)
+
+<details>
+  
+  <summary><strong>As of 4.4, you can keep this part the same!</strong></summary>
 
 Find the new Impact+LiteLoader combo JSON that the installer created, and modify the last argument to read as follows:
 
 ![Modify](https://i.imgur.com/6AFFegt.png)
 
-As of 4.4, you can keep this part the same!
+</details>
 
 ## Run the new Profile
 
