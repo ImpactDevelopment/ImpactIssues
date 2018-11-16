@@ -1,13 +1,14 @@
-<!-- Please describe your issue / suggestion in as much detail as possible. -->
+<!-- Please describe your issue in as much detail as possible. -->
 
 <!-- Use the "Preview" button to see how your issue will appear -->
 <!-- Anything within these "<!--" comments won't be shown in your issue. -->
 <!-- You can use markdown and some limited HTML to format your issue -->
 
-<!-- If this is a feature request or suggestion, you don't need this template! Type Ctrl+A and then Del to get rid of it -->
-<!-- Instead just describe your suggestion in as much detail as you can. Explain what it does and why it is useful. -->
+---
+name: Bug Report
+about: Open an issue relating to unexpected behavior, or a crash
 
-<!-- If this is a bug report, use the template to guide you through providing us with useful information -->
+---
 
 ### What happens?
 <!-- e.g. "My client crashes when I join example server with example mod enabled" -->
@@ -18,7 +19,7 @@
 - Another step
   - Note about "Another step"
 - A third step
-- etc
+- etc.
 
 <details> 
   <summary><strong>Game output</strong></summary>
