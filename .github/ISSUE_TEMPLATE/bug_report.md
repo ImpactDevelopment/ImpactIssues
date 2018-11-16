@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Open an issue relating to unexpected behavior, or a crash
+about: Open an issue relating to unexpected behavior or a crash
 
 ---
 
