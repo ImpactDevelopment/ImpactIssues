@@ -30,7 +30,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * Whispers 
 * Kato
 
-#### Contributor <!-- A.K.A GPG signed commits from a user w/o write access in a private repository. Nice! -->
+#### Primary Contributor <!-- A.K.A GPG signed commits from a user w/o write access in a private repository. Nice! -->
 
 * [leijurv]
 
