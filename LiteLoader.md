@@ -22,6 +22,10 @@ Find the new Impact+LiteLoader combo JSON that the installer created, and modify
 
 </details>
 
+## Modify the JSON (Applies to all versions)
+
+You will need to modify the LiteLoader jar and the JSON itself to remove the outdated Mixin dependency from LiteLoader. The steps are [Here](https://github.com/ImpactDevelopment/ImpactClient/issues/917#issuecomment-462078924).
+
 ## Run the new Profile
 
 Now you can open the Minecraft launcher and run the combo profile as normal.
