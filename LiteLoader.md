@@ -31,3 +31,6 @@ You will need to modify the LiteLoader jar and the JSON itself to remove the out
 Now you can open the Minecraft launcher and run the combo profile as normal.
 
 ![Run](https://i.imgur.com/J5wWJt9.png)
+
+## YouTube Tutorial 
+https://www.youtube.com/watch?v=0B0dt_ItWpY
