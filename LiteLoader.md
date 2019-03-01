@@ -25,6 +25,7 @@ Find the new Impact+LiteLoader combo JSON that the installer created, and modify
 ## Modify the JSON (Applies to all versions)
 
 You will need to modify the LiteLoader jar and the JSON itself to remove the outdated Mixin dependency from LiteLoader. The steps are [Here](https://github.com/ImpactDevelopment/ImpactClient/issues/917#issuecomment-462078924).
+NOTE: Instead of removing the URL from the JSON, change it to "https://www.google.com"
 
 ## Run the new Profile
 
