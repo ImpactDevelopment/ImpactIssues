@@ -46,7 +46,11 @@ You will see
 
 _like this_
 
-- Now go to
+### Adding OptiFine's tweaker
+
+<details><summary><strong>Versions between 4.0 and 4.5</strong></summary>
+
+- Go to
 
 ```
 "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass clientapi.load.ClientTweaker",
@@ -58,6 +62,40 @@ _like this_
 ```
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass clientapi.load.ClientTweaker --tweakClass optifine.OptiFineForgeTweaker",
 ```
+
+</details>
+
+<details><summary><strong>Versions from 4.6 and up</strong></summary>
+
+Find the `"arguments": { "game": [] }` section, it'll look like this:
+
+```json
+"arguments": {
+  "game": [
+    "--tweakClass",
+    "clientapi.load.ClientTweaker",
+    "--tweakClass",
+    "baritone.launch.BaritoneTweaker"
+  ]
+},
+```
+
+Add `"--tweakClass"` and `"optifine.OptiFineForgeTweaker"` to the `game` array so that it looks like:
+
+```json
+"arguments": {
+  "game": [
+    "--tweakClass",
+    "clientapi.load.ClientTweaker",
+    "--tweakClass",
+    "baritone.launch.BaritoneTweaker",
+    "--tweakClass",
+    "optifine.OptiFineForgeTweaker"
+  ]
+},
+```
+
+</details>
 
 When it's completed just restart your launcher and you should have OptiFine
 
