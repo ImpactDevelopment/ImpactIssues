@@ -48,7 +48,7 @@ _like this_
 
 ### Adding OptiFine's tweaker
 
-<details><summary><strong>Versions between 4.0 and 4.5</strong></summary>
+<details><summary><strong>Versions between 4.0 and 4.5 (and 4.6 1.12.2) </strong></summary>
 
 - Go to
 
@@ -65,7 +65,7 @@ _like this_
 
 </details>
 
-<details><summary><strong>Versions from 4.6 and up</strong></summary>
+<details><summary><strong>Versions from 4.6 (1.13.2) and up</strong></summary>
 
 Find the `"arguments": { "game": [] }` section, it'll look like this:
 
