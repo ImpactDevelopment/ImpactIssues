@@ -35,6 +35,7 @@ Delete the "org" folder in the root directory of the LiteLoader jar, it should o
 ![image](https://user-images.githubusercontent.com/24485393/52526197-e4eed380-2c7a-11e9-99fb-87880ad29887.png)
 
 ### 2) Remove the URL from the LiteLoader JSON
+> Psst! If your game wont launch, leave the url field there, but replace it with `"https://www.google.com"`
 
 This will prevent the LiteLoader jar from being "fixed" and having the Mixin version restored. Below is what it should look like once removed.
 
