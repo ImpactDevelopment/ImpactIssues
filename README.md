@@ -21,7 +21,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 ## Credit
 
-   Impact is developed by [ZeroMemes] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone] which is developed by [leijurv]
+   Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone] which is developed by [leijurv]
 
 ### Impact Discord Staff and Members
 
@@ -29,10 +29,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 * Whispers 
 * Kato
-
-#### Primary Contributor <!-- A.K.A GPG signed commits from a user w/o write access in a private repository. Nice! -->
-
-* [leijurv]
 
 #### Moderators
 
