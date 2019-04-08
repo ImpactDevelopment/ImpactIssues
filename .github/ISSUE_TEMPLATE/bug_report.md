@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Please file a separate report for each issue
-title: ''
-labels: ''
+title: Please add a brief but descriptive title
+labels: Bug
 assignees: ''
 
 ---
