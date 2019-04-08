@@ -1,25 +1,27 @@
 ---
-name: Bug Report
-about: Open an issue relating to unexpected behavior or a crash
+name: Bug report
+about: Please file a separate report for each issue
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-<!-- Please describe your issue in as much detail as possible. -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-<!-- Use the "Preview" button to see how your issue will appear -->
-<!-- Anything within these "<!--" comments won't be shown in your issue. -->
-<!-- You can use markdown and some limited HTML to format your issue -->
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-### What happens?
-<!-- e.g. "My client crashes when I join example server with example mod enabled" -->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-### Exact steps to reproduce?
-
-- Step one
-- Another step
-  - Note about "Another step"
-- A third step
-- etc.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
 <details> 
   <summary><strong>Game output</strong></summary>
@@ -52,3 +54,6 @@ about: Open an issue relating to unexpected behavior or a crash
 - Operating System: <!-- e.g. "Windows 10 64bit" or "Fedora 24" -->
 
 </details>
+
+**Additional context**
+Add any other context about the problem here.
