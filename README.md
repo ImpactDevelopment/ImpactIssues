@@ -27,7 +27,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Past Developers
 
-* Whispers 
+* WhispersHF
 * Kato
 
 #### Moderators
