@@ -46,7 +46,8 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [vitor is]       
 * xpielordx        
 * [SuperOP535]
-* Olibols (Feathers)
+* Scæling
+* QueefHacker
 
 
 <!--info not bothered to add (for peanut only)
