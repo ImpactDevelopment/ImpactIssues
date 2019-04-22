@@ -35,7 +35,8 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [0x22]          
 * Astro           
 * [MightyKnight]  
-* [positive]      
+* [positive]
+* [Scandal]
 
 #### Supporters
 
@@ -46,8 +47,12 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [vitor is]       
 * xpielordx        
 * [SuperOP535]
+* Olibols (Feathers)
+<!--
 * Scæling
 * QueefHacker
+lmao
+-->
 
 
 <!--info not bothered to add (for peanut only)
@@ -84,3 +89,4 @@ Long term member on discord, active member and contributor
 [positive]: https://github.com/hugohindi
 [0x22]: https://github.com/0-x-2-2
 [SuperOP535]: https://github.com/SuperOP535
+[Scandal]: https://github.com/ScanmanTM
