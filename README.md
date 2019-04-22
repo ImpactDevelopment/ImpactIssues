@@ -32,11 +32,13 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Moderators
 
+#[Scandal]
+
 * [0x22]          
 * Astro           
 * [MightyKnight]  
 * [positive]
-* [Scandal]
+
 
 #### Supporters
 
