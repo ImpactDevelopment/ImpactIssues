@@ -2,7 +2,7 @@
 name: Feature request
 about: Please open a separate report for each suggestion
 title: Please add a brief but descriptive title
-labels: Enhancement
+labels: Suggestion
 assignees: ''
 
 ---
