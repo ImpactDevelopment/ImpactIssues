@@ -49,6 +49,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * xpielordx        
 * [SuperOP535]
 * Olibols (Feathers)
+* [Cerbiac Kerberos][Cerbiac]
 <!--
 * Scæling
 * QueefHacker
@@ -91,3 +92,4 @@ Long term member on discord, active member and contributor
 [0x22]: https://github.com/0-x-2-2
 [SuperOP535]: https://github.com/SuperOP535
 [Scandal]: https://github.com/ScanmanTM
+[Cerbiac]: https://github.com/Cerbiac
