@@ -51,28 +51,9 @@ New features should also be reported as [issues]. Please try to describe the fea
 * Olibols (Feathers)
 * [EmeraldSnorlax]
 * [Cerbiac Kerberos]
-* SpicyBigDaddy
 * Vini Dalvino
 * [BadDev (StijnSimons)]
 
-<!--
-* Scæling
-* QueefHacker
-lmao
--->
-
-
-<!--info not bothered to add (for peanut only)
-Big Contributor to Impact, Developer of Future
-Helper and Contributor to Impact
-Very active helper and supporter on the discord
-Helper and Supporter on Discord and Github
-Long term member on discord, active member and contributor
-| Really early contributor, Emotional Support 
-| The pepsi god
- One of the oldest Contributors, not active anymore
- | Very active Helper on Discord and Github
-  -->
 
 <!-- External links -->
 [website]: https://impactdevelopment.github.io
