@@ -41,6 +41,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Support
 
+* [Bella]
 * [Peanut]
 * [MagicStar]      
 * pepsi boy        
@@ -70,6 +71,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 [LeafHacker]: https://github.com/LeafHacker
 [leijurv]: https://github.com/leijurv
 
+[Bella]: https://github.com/S-B99
 [Peanut]: https://github.com/zPeanut
 [MagicStar]: https://github.com/MagicStarIsntGay
 [vitor is]: https://github.com/VitorISs
