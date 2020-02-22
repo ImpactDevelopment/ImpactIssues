@@ -32,54 +32,54 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Moderators
 
-* [Scandal]
 * [0x22]          
 * Astro           
 * [MightyKnight]  
 * [positive]
+* [Scandal]
 
 
 #### Support
 
+* [BadDev (StijnSimons)]
 * [Bella]
-* [Peanut]
+* [Cerbiac Kerberos]
+* [EmeraldSnorlax]
 * [MagicStar]      
+* Olibols (Feathers)
+* [Peanut]
 * pepsi boy        
 * sudofox
+* [SuperOP535]
+* Vini Dalvino
 * [vitor is]       
 * xpielordx        
-* [SuperOP535]
-* Olibols (Feathers)
-* [EmeraldSnorlax]
-* [Cerbiac Kerberos]
-* Vini Dalvino
-* [BadDev (StijnSimons)]
 
 
 <!-- External links -->
-[website]: https://impactdevelopment.github.io
-[download]: https://impactdevelopment.github.io/#download
 [discord]: https://discord.gg/YFhR2Ab
+[download]: https://impactdevelopment.github.io/#download
+[website]: https://impactdevelopment.github.io
 
 <!-- GitHub links -->
-[issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
-[ClientAPI]: https://github.com/ImpactDevelopment/ClientAPI
 [Baritone]: https://github.com/cabaletta/baritone
+[ClientAPI]: https://github.com/ImpactDevelopment/ClientAPI
+[issues]: https://github.com/ImpactDevelopment/ImpactClient/issues
 
 <!-- Users -->
-[ZeroMemes]: https://github.com/ZeroMemes
 [LeafHacker]: https://github.com/LeafHacker
 [leijurv]: https://github.com/leijurv
+[ZeroMemes]: https://github.com/ZeroMemes
 
-[Bella]: https://github.com/S-B99
-[Peanut]: https://github.com/zPeanut
-[MagicStar]: https://github.com/MagicStarIsntGay
-[vitor is]: https://github.com/VitorISs
-[MightyKnight]: https://github.com/MightyKnight
-[positive]: https://github.com/hugohindi
 [0x22]: https://github.com/0-x-2-2
-[SuperOP535]: https://github.com/SuperOP535
-[Scandal]: https://github.com/ScanmanTM
 [BadDev (StijnSimons)]: https://github.com/StijnSimons
-[EmeraldSnorlax]: https://github.com/EmeraldSnorlax
+[Bella]: https://github.com/S-B99
 [Cerbiac Kerberos]: https://github.com/Cerbiac
+[EmeraldSnorlax]: https://github.com/EmeraldSnorlax
+[MagicStar]: https://github.com/MagicStarIsntGay
+[MightyKnight]: https://github.com/MightyKnight
+[Peanut]: https://github.com/zPeanut
+[positive]: https://github.com/hugohindi
+[Scandal]: https://github.com/ScanmanTM
+[SuperOP535]: https://github.com/SuperOP535
+[vitor is]: https://github.com/VitorISs
