@@ -1,14 +1,14 @@
 ---
 name: Question or support
-about: 'Please seek support on our discord server instead: http://discord.gg/MmhkCZ'
+about: 'Please seek support on our discord server instead: https://impactclient.net/discord'
 title: ''
 labels: Question
 assignees: ''
 
 ---
 
-**Please consider joining our Discord server instead to get support**
-http://http://discord.gg/MmhkCZ
+<!--Please consider joining our Discord server instead to get support-->
+<!--https://impactclient.net/discord-->
 
 **Is your question request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
