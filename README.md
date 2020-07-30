@@ -32,7 +32,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Senior Moderators
 
-* 0x22
+* [0x22]
 * [Scandal]
 * [Peanut]
 * SlayerFox
