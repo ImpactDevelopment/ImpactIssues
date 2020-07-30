@@ -52,7 +52,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * pepsi boy
 * [valthewyvern]
 * Dectonic
-* ether
+* ether (Pixel)
 
 #### Support
 
