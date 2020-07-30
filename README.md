@@ -57,7 +57,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 #### Support
 
 * [Bella]    
-* Olibols (Feathers)        
+* Feathers        
 * sudofox
 * sakuya
 * [vitor is]       
