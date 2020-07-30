@@ -55,8 +55,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * ether (Pixel)
 
 #### Support
-
-* [Bella]    
+  
 * Feathers        
 * sudofox
 * sakuya
@@ -98,7 +97,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 [0x22]: https://github.com/0-x-2-2
 [BadDev (StijnSimons)]: https://github.com/StijnSimons
-[Bella]: https://github.com/S-B99
 [Cerbiac Kerberos]: https://github.com/Cerbiac
 [EmeraldSnorlax]: https://github.com/EmeraldSnorlax
 [MagicStar]: https://github.com/MagicStarIsntGay
