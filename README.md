@@ -30,30 +30,55 @@ New features should also be reported as [issues]. Please try to describe the fea
 * WhispersHF
 * Kato
 
+#### Senior Moderators
+
+* 0x22
+* [Scandal]
+* [Peanut]
+* SlayerFox
+* [positive]
+
+
 #### Moderators
 
-* [0x22]          
-* Astro           
 * [MightyKnight]  
-* [positive]
-* [Scandal]
-
+* [EmeraldSnorlax]
+* Blusk
+* Finlay
+* Arisa
+* Seven Oaks
+* [BadDev (StijnSimons)]
+* [BongEatBong]
+* pepsi boy
+* [valthewyvern]
+* Dectonic
+* ether
 
 #### Support
 
-* [BadDev (StijnSimons)]
-* [Bella]
-* [Cerbiac Kerberos]
-* [EmeraldSnorlax]
-* [MagicStar]      
-* Olibols (Feathers)
-* [Peanut]
-* pepsi boy        
+* [Bella]    
+* Olibols (Feathers)        
 * sudofox
-* [SuperOP535]
-* Vini Dalvino
+* sakuya
 * [vitor is]       
-* xpielordx        
+* xpielordx
+* ForkyFork
+* Babbaj
+* ObiJuan_
+* ilidumb
+* SoNothing
+* rebane2001
+* Ezioblade12
+* elongated muskrat
+* BeeVa
+* Robocop
+* Lavodan
+* Twi
+* Doctor_Bang
+* ISubbed
+* triibu
+* Impact Bot
+* Scandal Bot     
 
 
 <!-- External links -->
@@ -83,3 +108,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 [Scandal]: https://github.com/ScanmanTM
 [SuperOP535]: https://github.com/SuperOP535
 [vitor is]: https://github.com/VitorISs
+[valthewyvern]: https://github.com/valthewyvern
+[BongEatBong]: https://github.com/BongEatBong
+
