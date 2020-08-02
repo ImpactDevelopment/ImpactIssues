@@ -53,6 +53,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [valthewyvern]
 * Dectonic
 * ether (Pixel)
+* [dominika]
 
 #### Support
   
@@ -108,4 +109,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 [vitor is]: https://github.com/VitorISs
 [valthewyvern]: https://github.com/valthewyvern
 [BongEatBong]: https://github.com/BongEatBong
-
+[dominika]: https://github.com/dominikaaaa
