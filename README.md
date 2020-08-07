@@ -78,7 +78,8 @@ New features should also be reported as [issues]. Please try to describe the fea
 * ISubbed
 * triibu
 * Impact Bot
-* Scandal Bot   
+* Scandal Bot
+* [dominika]
 
 
 <!-- External links -->
