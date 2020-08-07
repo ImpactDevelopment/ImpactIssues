@@ -79,7 +79,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * triibu
 * Impact Bot
 * Scandal Bot
-* [dominika]
+* [dominika] (GitHub)
 
 
 <!-- External links -->
