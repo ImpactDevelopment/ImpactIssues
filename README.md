@@ -53,7 +53,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [valthewyvern]
 * Dectonic
 * ether (Pixel)
-* [dominika]
+
 
 #### Support
   
@@ -78,7 +78,8 @@ New features should also be reported as [issues]. Please try to describe the fea
 * ISubbed
 * triibu
 * Impact Bot
-* Scandal Bot     
+* Scandal Bot   
+* [dominika]
 
 
 <!-- External links -->
