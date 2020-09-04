@@ -11,6 +11,9 @@ You can [download Impact][download] by visiting the Impact Website.
 
 If you need help using Impact, you should instead ask for it on the [discord] server. Use the `#help` channel so that you don't clutter up `#general` with support questions. Also make sure to check `#announcements`, pinned messages and use the search tool to see if your question has already been answered.
 
+It is also recommended to check the wiki first, it may have your fix:
+[Common Issues](https://github.com/ImpactDevelopment/ImpactIssues/wiki/Common-Issues-FAQ)
+
 ## Bugs
 
 Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate    issues.
