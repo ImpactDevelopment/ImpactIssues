@@ -45,12 +45,9 @@ New features should also be reported as [issues]. Please try to describe the fea
 #### Moderators
 
 * [MightyKnight]  
-* [EmeraldSnorlax]
 * Blusk
 * Finlay
-* Arisa
 * Seven Oaks
-* [BadDev (StijnSimons)]
 * [BongEatBong]
 * pepsi boy
 * [valthewyvern]
@@ -60,15 +57,12 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 #### Support
   
-* Feathers        
-* sudofox
 * sakuya
 * [vitor is]       
 * xpielordx
 * ForkyFork
 * Babbaj
 * ObiJuan_
-* ilidumb
 * SoNothing
 * rebane2001
 * Ezioblade12
@@ -78,7 +72,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 * Lavodan
 * Twi
 * Doctor_Bang
-* ISubbed
 * triibu
 * Impact Bot
 * Scandal Bot
