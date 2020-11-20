@@ -53,6 +53,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [valthewyvern]
 * Dectonic
 * ether (Pixel)
+* [CesiumCs]
 
 
 #### Support
@@ -107,3 +108,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 [valthewyvern]: https://github.com/valthewyvern
 [BongEatBong]: https://github.com/BongEatBong
 [living]: https://github.com/l1ving
+[CesiumCs]: https://github.com/CesiumCs
