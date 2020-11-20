@@ -75,7 +75,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * triibu
 * Impact Bot
 * Scandal Bot
-* [dominika] (GitHub)
+* [living] (GitHub)
 
 
 <!-- External links -->
@@ -106,4 +106,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 [vitor is]: https://github.com/VitorISs
 [valthewyvern]: https://github.com/valthewyvern
 [BongEatBong]: https://github.com/BongEatBong
-[dominika]: https://github.com/dominikaaaa
+[living]: https://github.com/l1ving
