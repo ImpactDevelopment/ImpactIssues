@@ -53,7 +53,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * ether (Pixel)
 * Finlay
 * [MightyKnight]
-* pepsi boy
+* [pepsi boy]
 
 
 #### Support
@@ -116,3 +116,4 @@ New features should also be reported as [issues]. Please try to describe the fea
 [CesiumCs]: https://github.com/CesiumCs
 [Berrely]: https://github.com/berrely
 [SoNothing]: https://github.com/SoNothingMC
+[pepsi boy]: https://github.com/pepsilord420
