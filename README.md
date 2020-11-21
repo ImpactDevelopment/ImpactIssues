@@ -62,6 +62,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * BeeVa
 * [Berrely]
 * Ezioblade12
+* FakeAccount1231
 * ForkyFork
 * [living] (GitHub)
 * ObiJuan_
@@ -78,6 +79,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 #### Ex-Staff
 
 * Dectonic
+* [EmeraldSnorlax]
 * Lavodan
 * Seven Oaks
 * [SoNothing]
