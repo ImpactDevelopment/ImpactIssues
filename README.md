@@ -33,6 +33,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * WhispersHF
 * Kato
 
+
 #### Senior Moderators
 
 * [0x22]
@@ -40,44 +41,48 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [Peanut]
 * SlayerFox
 * [positive]
+* [BongEatBong]
 
 
 #### Moderators
 
-* [MightyKnight]  
+* [MightyKnight]
 * Blusk
 * Finlay
-* Seven Oaks
-* [BongEatBong]
 * pepsi boy
-* [valthewyvern]
-* Dectonic
+* elongated muskrat
 * ether (Pixel)
 * [CesiumCs]
+* Doctor_Bang
 
 
 #### Support
-  
+
 * sakuya
-* [vitor is]       
 * xpielordx
 * ForkyFork
 * Babbaj
 * ObiJuan_
-* SoNothing
+* [SoNothing]
 * rebane2001
 * Ezioblade12
-* elongated muskrat
 * BeeVa
 * Robocop
-* Lavodan
 * Twi
-* Doctor_Bang
 * triibu
+* [Berrely]
 * Impact Bot
 * Scandal Bot
 * [living] (GitHub)
 
+
+#### Ex-Staff
+
+* Seven Oaks
+* [valthewyvern]
+* Lavodan
+* Dectonic
+* [vitor is]
 
 <!-- External links -->
 [discord]: https://discord.gg/YFhR2Ab
@@ -109,3 +114,5 @@ New features should also be reported as [issues]. Please try to describe the fea
 [BongEatBong]: https://github.com/BongEatBong
 [living]: https://github.com/l1ving
 [CesiumCs]: https://github.com/CesiumCs
+[Berrely]: https://github.com/berrely
+[SoNothing]: https://github.com/SoNothingMC
