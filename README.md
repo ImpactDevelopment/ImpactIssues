@@ -37,51 +37,51 @@ New features should also be reported as [issues]. Please try to describe the fea
 #### Senior Moderators
 
 * [0x22]
-* [Scandal]
-* [Peanut]
-* SlayerFox
-* [positive]
 * [BongEatBong]
+* [Peanut]
+* [positive]
+* [Scandal]
+* SlayerFox
 
 
 #### Moderators
 
-* [MightyKnight]
 * Blusk
-* Finlay
-* pepsi boy
-* elongated muskrat
-* ether (Pixel)
 * [CesiumCs]
 * Doctor_Bang
+* elongated muskrat
+* ether (Pixel)
+* Finlay
+* [MightyKnight]
+* pepsi boy
 
 
 #### Support
 
-* sakuya
-* xpielordx
-* ForkyFork
 * Babbaj
+* BeeVa
+* [Berrely]
+* Ezioblade12
+* ForkyFork
+* [living] (GitHub)
 * ObiJuan_
+* sakuya
 * [SoNothing]
 * rebane2001
-* Ezioblade12
-* BeeVa
-* Robocop
 * Twi
 * triibu
-* [Berrely]
+* xpielordx
+* Robocop
 * Impact Bot
 * Scandal Bot
-* [living] (GitHub)
 
 
 #### Ex-Staff
 
+* Dectonic
+* Lavodan
 * Seven Oaks
 * [valthewyvern]
-* Lavodan
-* Dectonic
 * [vitor is]
 
 <!-- External links -->
