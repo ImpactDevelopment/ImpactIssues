@@ -66,7 +66,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 * [living] (GitHub)
 * ObiJuan_
 * sakuya
-* [SoNothing]
 * rebane2001
 * Twi
 * triibu
@@ -81,6 +80,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * Dectonic
 * Lavodan
 * Seven Oaks
+* [SoNothing]
 * [valthewyvern]
 * [vitor is]
 
