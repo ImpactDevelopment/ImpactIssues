@@ -33,51 +33,58 @@ New features should also be reported as [issues]. Please try to describe the fea
 * WhispersHF
 * Kato
 
+
 #### Senior Moderators
 
 * [0x22]
-* [Scandal]
+* [BongEatBong]
 * [Peanut]
-* SlayerFox
 * [positive]
+* [Scandal]
+* SlayerFox
 
 
 #### Moderators
 
-* [MightyKnight]  
 * Blusk
-* Finlay
-* Seven Oaks
-* [BongEatBong]
-* pepsi boy
-* [valthewyvern]
-* Dectonic
-* ether (Pixel)
 * [CesiumCs]
+* Doctor_Bang
+* elongated muskrat
+* ether (Pixel)
+* Finlay
+* [MightyKnight]
+* [pepsi boy]
 
 
 #### Support
-  
-* sakuya
-* [vitor is]       
-* xpielordx
-* ForkyFork
+
 * Babbaj
-* ObiJuan_
-* SoNothing
-* rebane2001
-* Ezioblade12
-* elongated muskrat
 * BeeVa
-* Robocop
-* Lavodan
+* [Berrely]
+* Ezioblade12
+* FakeAccount1231
+* ForkyFork
+* [living] (GitHub)
+* ObiJuan_
+* sakuya
+* rebane2001
 * Twi
-* Doctor_Bang
 * triibu
+* xpielordx
+* Robocop
 * Impact Bot
 * Scandal Bot
-* [living] (GitHub)
 
+
+#### Ex-Staff
+
+* Dectonic
+* [EmeraldSnorlax]
+* Lavodan
+* Seven Oaks
+* [SoNothing]
+* [valthewyvern]
+* [vitor is]
 
 <!-- External links -->
 [discord]: https://discord.gg/YFhR2Ab
@@ -109,3 +116,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 [BongEatBong]: https://github.com/BongEatBong
 [living]: https://github.com/l1ving
 [CesiumCs]: https://github.com/CesiumCs
+[Berrely]: https://github.com/berrely
+[SoNothing]: https://github.com/SoNothingMC
+[pepsi boy]: https://github.com/pepsilord420
