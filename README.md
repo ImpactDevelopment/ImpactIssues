@@ -59,21 +59,23 @@ New features should also be reported as [issues]. Please try to describe the fea
 #### Support
 
 * Babbaj
+* Bayleaf
 * BeeVa
 * [Berrely]
 * Ezioblade12
 * FakeAccount1231
 * ForkyFork
+* Impact Bot
 * [living] (GitHub)
 * ObiJuan_
-* sakuya
 * rebane2001
+* Robocop
+* sakuya
+* Scandal Bot
+* Skyklat
 * Twi
 * triibu
 * xpielordx
-* Robocop
-* Impact Bot
-* Scandal Bot
 
 
 #### Ex-Staff
