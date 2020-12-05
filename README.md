@@ -71,6 +71,7 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * triibu
 * xpielordx
 * Bayleaf154
+* [Skylykat]
 * Robocop
 * [Impact Bot]
 * Scandal Bot
@@ -129,3 +130,4 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 [rebane2001]: https://github.com/rebane2001
 [Blusk]: https://github.com/Bluskript
 [Doctor_Bang]: https://github.com/DoctorBang
+[SkylyKat]: https://github.com/skylykat
