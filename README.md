@@ -87,6 +87,8 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * [valthewyvern]
 * [vitor is]
 * [Blusk]
+* ilidumb
+* [BadDev (StijnSimons)]
 
 <!-- External links -->
 [discord]: https://discord.gg/YFhR2Ab
