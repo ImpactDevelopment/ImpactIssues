@@ -61,7 +61,7 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * BeeVa
 * [Berrely]
 * Ezioblade12
-* FakeAccount1231
+* [FakeAccount1231]
 * ForkyFork
 * [living] (GitHub)
 * ObiJuan_
@@ -130,3 +130,4 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 [Blusk]: https://github.com/Bluskript
 [Doctor_Bang]: https://github.com/DoctorBang
 [SkylyKat]: https://github.com/skylykat
+[FakeAccount1231]: https://github.com/Fakeaccount12312
