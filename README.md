@@ -37,10 +37,10 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 #### Senior Moderators
 
 * [0x22]
-* [BongEatBong]
+* BongEatBong
 * [Peanut]
-* [positive]
-* [Scandal]
+* positive
+* Scandal
 * SlayerFox
 
 
@@ -115,12 +115,9 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 [MagicStar]: https://github.com/MagicStarIsntGay
 [MightyKnight]: https://github.com/MightyKnight
 [Peanut]: https://github.com/zPeanut
-[positive]: https://github.com/hugohindi
-[Scandal]: https://github.com/ScanmanTM
 [SuperOP535]: https://github.com/SuperOP535
 [vitor is]: https://github.com/VitorISs
 [valthewyvern]: https://github.com/valthewyvern
-[BongEatBong]: https://github.com/BongEatBong
 [living]: https://github.com/l1ving
 [CesiumCs]: https://github.com/CesiumCs
 [Berrely]: https://github.com/berrely
