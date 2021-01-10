@@ -37,7 +37,6 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 #### Senior Moderators
 
 * [0x22]
-* BongEatBong
 * [Peanut]
 * positive
 * Scandal
@@ -89,6 +88,7 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * [Blusk]
 * ilidumb
 * [BadDev (StijnSimons)]
+* BongEatBong
 
 <!-- External links -->
 [discord]: https://discord.gg/YFhR2Ab
