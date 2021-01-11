@@ -57,7 +57,7 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 #### Support
 
 * [Babbaj]
-* [Bayleaf154]
+* Bayleaf154
 * BeeVa
 * [Berrely]
 * Ezioblade12
