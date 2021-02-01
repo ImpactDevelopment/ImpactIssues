@@ -57,13 +57,11 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 #### Support
 
 * [Babbaj]
-* Bayleaf154
 * BeeVa
 * [Berrely]
 * Ezioblade12
 * [FakeAccount1231]
 * ForkyFork
-* [living] (GitHub)
 * ObiJuan_
 * [sakuya]
 * [Skylykat]
@@ -83,8 +81,10 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 #### Ex-Staff
 
 * Dectonic
+* Bayleaf154
 * [EmeraldSnorlax]
 * Lavodan
+* [living] (GitHub)
 * Seven Oaks
 * [valthewyvern]
 * [vitor is]
