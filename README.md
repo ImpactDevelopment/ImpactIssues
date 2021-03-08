@@ -42,13 +42,13 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * positive
 * Scandal
 * SlayerFox
+* [elongated muskrat]
 
 
 #### Moderators
 
 * [CesiumCs]
 * [Doctor_Bang]
-* [elongated muskrat]
 * ether (Pixel)
 * Finlay
 * [MightyKnight]
