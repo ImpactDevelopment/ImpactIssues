@@ -126,7 +126,7 @@ Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is bu
 [SuperOP535]: https://github.com/SuperOP535
 [vitor is]: https://github.com/VitorISs
 [valthewyvern]: https://github.com/valthewyvern
-[living (bella)]: https://github.com/l1ving
+[living]: https://github.com/l1ving
 [CesiumCs]: https://github.com/CesiumCs
 [Berrely]: https://github.com/berrely
 [SoNothing]: https://github.com/SoNothingMC
@@ -139,7 +139,6 @@ Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is bu
 [Doctor_Bang]: https://github.com/DoctorBang
 [SkylyKat]: https://github.com/skylykat
 [FakeAccount1231]: https://github.com/Fakeaccount12312
-[BadDev]: https://github.com/stijnSimons
 [triibu]: https://github.com/triibuline
 [Dectonic]: https://github.com/Dectonic
 [aholic]: https://github.com/aholic1208/
