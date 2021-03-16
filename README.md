@@ -93,7 +93,7 @@ Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is bu
 * [EmeraldSnorlax]
 * [SuperOP535]
 * Lavodan
-* [living (bella)] (GitHub)
+* [liv] (GitHub)
 * Seven Oaks
 * [valthewyvern]
 * [vitor is]
@@ -126,7 +126,7 @@ Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is bu
 [SuperOP535]: https://github.com/SuperOP535
 [vitor is]: https://github.com/VitorISs
 [valthewyvern]: https://github.com/valthewyvern
-[living]: https://github.com/l1ving
+[liv]: https://github.com/l1ving
 [CesiumCs]: https://github.com/CesiumCs
 [Berrely]: https://github.com/berrely
 [SoNothing]: https://github.com/SoNothingMC
