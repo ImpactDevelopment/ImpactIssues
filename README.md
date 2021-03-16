@@ -22,9 +22,9 @@ Please report any bugs you find [here][issues]. Try to be as descriptive as poss
 
 New features should also be reported as [issues]. Please try to describe the feature you are suggesting in as much detail as possible and explain _why_ it would be useful. As explained above, please first check the feature hasn't already been requested and make sure your issue only covers one feature. If you have multiple ideas, open separate issues.
 
-## Credit
+## Credits
 
-Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone], which is developed by [leijurv].
+Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone], which is developed by [leijurv].
 
 ### Impact Discord Staff and Members
 
@@ -50,16 +50,18 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * [CesiumCs]
 * [Doctor_Bang]
 * ether (Pixel)
-* Finlay
+* [Finlay (MagicStar)]
 * [MightyKnight]
 * [pepsi boy]
+* [BadDev (StijnSimons)]
+* [Berrely]
+* [Blusk]
 
 
 #### Support
 
 * [Babbaj]
 * BeeVa
-* [Berrely]
 * Ezioblade12
 * [FakeAccount1231]
 * ForkyFork
@@ -69,8 +71,15 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 * [SoNothing]
 * [rebane2001]
 * Twi
-* triibu
+* [triibu]
 * xpielordx
+* [Dectonic]
+* Bayleaf154
+* [aholic]
+* GA1A (flies)
+* Zezypisa
+* Black_Energy (Eny)
+* Indrit
 
 
 #### Bots
@@ -81,17 +90,14 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 
 #### Ex-Staff
 
-* Dectonic
-* Bayleaf154
 * [EmeraldSnorlax]
+* [SuperOP535]
 * Lavodan
-* [living] (GitHub)
+* [living (bella)] (GitHub)
 * Seven Oaks
 * [valthewyvern]
 * [vitor is]
-* [Blusk]
 * ilidumb
-* [BadDev (StijnSimons)]
 
 <!-- External links -->
 [discord]: https://discord.gg/YFhR2Ab
@@ -109,13 +115,12 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 
 [LeafHacker]: https://github.com/LeafHacker
 [leijurv]: https://github.com/leijurv
-[ZeroMemes]: https://github.com/ZeroMemes
+[ZeroMemes (Brady)]: https://github.com/ZeroMemes
 
 [0x22]: https://github.com/0-x-2-2
 [BadDev (StijnSimons)]: https://github.com/StijnSimons
-[Cerbiac Kerberos]: https://github.com/Cerbiac
 [EmeraldSnorlax]: https://github.com/EmeraldSnorlax
-[MagicStar]: https://github.com/MagicStarIsntGay
+[Finlay (MagicStar)]: https://github.com/MagicStarIsntGay
 [MightyKnight]: https://github.com/MightyKnight
 [Peanut]: https://github.com/zPeanut
 [SuperOP535]: https://github.com/SuperOP535
@@ -134,3 +139,6 @@ Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on t
 [Doctor_Bang]: https://github.com/DoctorBang
 [SkylyKat]: https://github.com/skylykat
 [FakeAccount1231]: https://github.com/Fakeaccount12312
+[triibu]: https://github.com/triibuline
+[Dectonic]: https://github.com/Dectonic
+[aholic]: https://github.com/aholic1208/
