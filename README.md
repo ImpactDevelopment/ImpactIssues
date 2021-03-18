@@ -9,9 +9,7 @@ You can [download Impact][download] by visiting the Impact Website.
 
 ## Help and Support
 
-If you need help using Impact, you should instead ask for it on the [discord] server. Use the `#help` channel so that you don't clutter up `#general` with support questions. Make sure to check `#announcements`, pinned messages and use the search tool to see if your question has already been answered.
-
-It is also recommended checking the wiki first, it may have your fix:
+It is recommended checking the wiki, it may have your fix:
 [Common Issues][Common Issues].
 
 ## Bugs
@@ -26,7 +24,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone], which is developed by [leijurv].
 
-### Impact Discord Staff and Members
+### Former Impact Discord Staff and Members
 
 #### Past Developers
 
