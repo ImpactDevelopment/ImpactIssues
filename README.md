@@ -111,7 +111,7 @@ Impact is developed by [ZeroMemes (Brady)], [leijurv] and [LeafHacker]. It is bu
 
 <!-- Profiles -->
 
-[LeafHacker]: https://github.com/LeafHacker
+[LeafHacker]: https://github.com/MattSturgeon
 [leijurv]: https://github.com/leijurv
 [ZeroMemes (Brady)]: https://github.com/ZeroMemes
 
